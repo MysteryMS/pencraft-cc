@@ -1,0 +1,468 @@
+0: [01:27:03 562] [update]     loading apis..                                                      
+1: [01:27:03 565] [info]       loaded api: fuzzy_find                                              
+2: [01:27:03 566] [info]       loaded api: log                                                     
+3: [01:27:03 567] [info]       loaded api: pixelbox                                                
+4: [01:27:03 568] [info]       loaded api: sevensh                                                 
+5: [01:27:03 568] [info]       loaded api: termtools                                               
+6: [01:27:03 569] [info]       loaded api: text                                                    
+7: [01:27:03 569] [info]                                                                           
+8: [01:27:03 569] [update]     loading presets..                                                   
+9: [01:27:03 569] [info]       loaded preset: rect > border                                        
+10: [01:27:03 570] [info]      loaded preset: rect > frame                                         
+11: [01:27:03 570] [info]      loaded preset: rect > frame_thick                                   
+12: [01:27:03 570] [info]      loaded preset: rect > framed_window                                 
+13: [01:27:03 571] [info]      loaded preset: rect > window                                        
+14: [01:27:03 571] [info]      loaded preset: tex > brick                                          
+15: [01:27:03 572] [info]      loaded preset: tex > checker                                        
+16: [01:27:03 572] [info]                                                                          
+17: [01:27:03 572] [success]   finished loading                                                    
+18: [01:27:03 572] [info]                                                                          
+19: [01:27:03 580] [update]    creating gui object..                                               
+20: [01:27:03 580] [update]    set up updater                                                      
+21: [01:27:03 580] [info]      Display object: monitor                                             
+22: [01:27:03 580] [info]                                                                          
+23: [01:27:03 580] [info]      Starting creator..                                                  
+24: [01:27:03 581] [info]      Found animation ease_in                                             
+25: [01:27:03 581] [info]      Found animation ease_in_back                                        
+26: [01:27:03 581] [info]      Found animation ease_in_cubic                                       
+27: [01:27:03 581] [info]      Found animation ease_in_elastic                                     
+28: [01:27:03 581] [info]      Found animation ease_in_expo                                        
+29: [01:27:03 581] [info]      Found animation ease_in_out                                         
+30: [01:27:03 581] [info]      Found animation ease_in_out_back                                    
+31: [01:27:03 581] [info]      Found animation ease_in_out_cubic                                   
+32: [01:27:03 581] [info]      Found animation ease_in_out_elastic                                 
+33: [01:27:03 581] [info]      Found animation ease_in_out_expo                                    
+34: [01:27:03 583] [info]      Found animation ease_in_out_quad                                    
+35: [01:27:03 583] [info]      Found animation ease_in_out_quart                                   
+36: [01:27:03 584] [info]      Found animation ease_in_out_quint                                   
+37: [01:27:03 584] [info]      Found animation ease_in_out_sine                                    
+38: [01:27:03 584] [info]      Found animation ease_in_quad                                        
+39: [01:27:03 584] [info]      Found animation ease_in_quart                                       
+40: [01:27:03 584] [info]      Found animation ease_in_quint                                       
+41: [01:27:03 584] [info]      Found animation ease_in_sine                                        
+42: [01:27:03 584] [info]      Found animation ease_out                                            
+43: [01:27:03 584] [info]      Found animation ease_out_back                                       
+44: [01:27:03 584] [info]      Found animation ease_out_cubic                                      
+45: [01:27:03 584] [info]      Found animation ease_out_elastic                                    
+46: [01:27:03 584] [info]      Found animation ease_out_expo                                       
+47: [01:27:03 584] [info]      Found animation ease_out_quad                                       
+48: [01:27:03 584] [info]      Found animation ease_out_quart                                      
+49: [01:27:03 584] [info]      Found animation ease_out_quint                                      
+50: [01:27:03 584] [info]      Found animation ease_out_sine                                       
+51: [01:27:03 584] [info]      Found animation flip                                                
+52: [01:27:03 584] [info]      Found animation linear                                              
+53: [01:27:03 584] [info]                                                                          
+54: [01:27:03 585] [update]    loading object: button                                              
+55: [01:27:03 621] [update]    loading object: circle                                              
+56: [01:27:03 622] [update]    loading object: ellipse                                             
+57: [01:27:03 624] [update]    loading object: frame                                               
+58: [01:27:03 627] [update]    loading object: group                                               
+59: [01:27:03 632] [update]    loading object: inputbox                                            
+60: [01:27:03 635] [update]    loading object: progressbar                                         
+61: [01:27:03 637] [update]    loading object: rectangle                                           
+62: [01:27:03 639] [update]    loading object: script                                              
+63: [01:27:03 641] [update]    loading object: scrollbox                                           
+64: [01:27:03 642] [update]    loading object: switch                                              
+65: [01:27:03 644] [update]    loading object: text                                                
+66: [01:27:03 646] [update]    loading object: triangle                                            
+67: [01:27:03 647] [info]                                                                          
+68: [01:27:03 647] [update]    loading text object...                                              
+69: [01:27:03 647] [info]                                                                          
+70: [01:27:03 647] [success]   finished creating gui object!                                       
+71: [01:27:03 647] [info]                                                                          
+72: [01:27:03 649] [info]      created new text > 4ca1fb25-886e-40af-b9bf-892aed8b6c58             
+73: [01:27:03 651] [info]      created new button > 64b46f5e-84a6-4647-9e75-bf06015e1d10           
+74: [01:27:03 652] [info]      created new text > f29b27b6-7f04-4fc8-b3ae-c06b3be2594d             
+75: [01:27:03 721] [info]      created new text > 70ece694-118e-4683-8022-c4e328935098             
+76: [01:27:03 722] [info]      created new button > 2a88a6ee-e224-4c7f-90ac-debe6eefe7f3           
+77: [01:27:03 724] [info]      created new button > 796dbc15-ffed-413b-b447-4e9e6a81489f           
+78: [01:27:03 727] [update]    creating gui object..                                               
+79: [01:27:03 727] [update]    set up updater                                                      
+80: [01:27:03 727] [info]      Display object: monitor                                             
+81: [01:27:03 727] [info]                                                                          
+82: [01:27:03 727] [info]      Starting creator..                                                  
+83: [01:27:03 728] [info]      Found animation ease_in                                             
+84: [01:27:03 728] [info]      Found animation ease_in_back                                        
+85: [01:27:03 728] [info]      Found animation ease_in_cubic                                       
+86: [01:27:03 728] [info]      Found animation ease_in_elastic                                     
+87: [01:27:03 728] [info]      Found animation ease_in_expo                                        
+88: [01:27:03 728] [info]      Found animation ease_in_out                                         
+89: [01:27:03 728] [info]      Found animation ease_in_out_back                                    
+90: [01:27:03 728] [info]      Found animation ease_in_out_cubic                                   
+91: [01:27:03 728] [info]      Found animation ease_in_out_elastic                                 
+92: [01:27:03 728] [info]      Found animation ease_in_out_expo                                    
+93: [01:27:03 728] [info]      Found animation ease_in_out_quad                                    
+94: [01:27:03 728] [info]      Found animation ease_in_out_quart                                   
+95: [01:27:03 728] [info]      Found animation ease_in_out_quint                                   
+96: [01:27:03 728] [info]      Found animation ease_in_out_sine                                    
+97: [01:27:03 728] [info]      Found animation ease_in_quad                                        
+98: [01:27:03 728] [info]      Found animation ease_in_quart                                       
+99: [01:27:03 728] [info]      Found animation ease_in_quint                                       
+100: [01:27:03 728] [info]     Found animation ease_in_sine                                        
+101: [01:27:03 728] [info]     Found animation ease_out                                            
+102: [01:27:03 728] [info]     Found animation ease_out_back                                       
+103: [01:27:03 728] [info]     Found animation ease_out_cubic                                      
+104: [01:27:03 728] [info]     Found animation ease_out_elastic                                    
+105: [01:27:03 728] [info]     Found animation ease_out_expo                                       
+106: [01:27:03 728] [info]     Found animation ease_out_quad                                       
+107: [01:27:03 728] [info]     Found animation ease_out_quart                                      
+108: [01:27:03 728] [info]     Found animation ease_out_quint                                      
+109: [01:27:03 728] [info]     Found animation ease_out_sine                                       
+110: [01:27:03 729] [info]     Found animation flip                                                
+111: [01:27:03 729] [info]     Found animation linear                                              
+112: [01:27:03 729] [info]                                                                         
+113: [01:27:03 729] [update]   loading object: button                                              
+114: [01:27:03 729] [update]   loading object: circle                                              
+115: [01:27:03 729] [update]   loading object: ellipse                                             
+116: [01:27:03 730] [update]   loading object: frame                                               
+117: [01:27:03 730] [update]   loading object: group                                               
+118: [01:27:03 730] [update]   loading object: inputbox                                            
+119: [01:27:03 731] [update]   loading object: progressbar                                         
+120: [01:27:03 731] [update]   loading object: rectangle                                           
+121: [01:27:03 732] [update]   loading object: script                                              
+122: [01:27:03 732] [update]   loading object: scrollbox                                           
+123: [01:27:03 733] [update]   loading object: switch                                              
+124: [01:27:03 733] [update]   loading object: text                                                
+125: [01:27:03 733] [update]   loading object: triangle                                            
+126: [01:27:03 734] [info]                                                                         
+127: [01:27:03 734] [update]   loading text object...                                              
+128: [01:27:03 734] [info]                                                                         
+129: [01:27:03 734] [success]  finished creating gui object!                                       
+130: [01:27:03 734] [info]                                                                         
+131: [01:27:03 735] [info]     created new progressbar > 0bdf579d-9a5d-4bb2-8ef6-8a17171c6181      
+132: [01:27:03 737] [info]     created new text > 9f3e9da0-1d0a-493b-9203-0fbab4240da4             
+133: [01:27:03 739] [info]     created new text > 09cfa048-8645-4c17-bc18-c804f9d062b2             
+134: [01:27:03 743] [update]   creating gui object..                                               
+135: [01:27:03 743] [update]   set up updater                                                      
+136: [01:27:03 743] [info]     Display object: monitor                                             
+137: [01:27:03 743] [info]                                                                         
+138: [01:27:03 744] [info]     Starting creator..                                                  
+139: [01:27:03 744] [info]     Found animation ease_in                                             
+140: [01:27:03 744] [info]     Found animation ease_in_back                                        
+141: [01:27:03 744] [info]     Found animation ease_in_cubic                                       
+142: [01:27:03 744] [info]     Found animation ease_in_elastic                                     
+143: [01:27:03 744] [info]     Found animation ease_in_expo                                        
+144: [01:27:03 744] [info]     Found animation ease_in_out                                         
+145: [01:27:03 744] [info]     Found animation ease_in_out_back                                    
+146: [01:27:03 744] [info]     Found animation ease_in_out_cubic                                   
+147: [01:27:03 744] [info]     Found animation ease_in_out_elastic                                 
+148: [01:27:03 744] [info]     Found animation ease_in_out_expo                                    
+149: [01:27:03 744] [info]     Found animation ease_in_out_quad                                    
+150: [01:27:03 744] [info]     Found animation ease_in_out_quart                                   
+151: [01:27:03 744] [info]     Found animation ease_in_out_quint                                   
+152: [01:27:03 744] [info]     Found animation ease_in_out_sine                                    
+153: [01:27:03 744] [info]     Found animation ease_in_quad                                        
+154: [01:27:03 744] [info]     Found animation ease_in_quart                                       
+155: [01:27:03 744] [info]     Found animation ease_in_quint                                       
+156: [01:27:03 744] [info]     Found animation ease_in_sine                                        
+157: [01:27:03 744] [info]     Found animation ease_out                                            
+158: [01:27:03 744] [info]     Found animation ease_out_back                                       
+159: [01:27:03 744] [info]     Found animation ease_out_cubic                                      
+160: [01:27:03 744] [info]     Found animation ease_out_elastic                                    
+161: [01:27:03 744] [info]     Found animation ease_out_expo                                       
+162: [01:27:03 744] [info]     Found animation ease_out_quad                                       
+163: [01:27:03 744] [info]     Found animation ease_out_quart                                      
+164: [01:27:03 745] [info]     Found animation ease_out_quint                                      
+165: [01:27:03 745] [info]     Found animation ease_out_sine                                       
+166: [01:27:03 745] [info]     Found animation flip                                                
+167: [01:27:03 745] [info]     Found animation linear                                              
+168: [01:27:03 746] [info]                                                                         
+169: [01:27:03 746] [update]   loading object: button                                              
+170: [01:27:03 746] [update]   loading object: circle                                              
+171: [01:27:03 746] [update]   loading object: ellipse                                             
+172: [01:27:03 747] [update]   loading object: frame                                               
+173: [01:27:03 747] [update]   loading object: group                                               
+174: [01:27:03 747] [update]   loading object: inputbox                                            
+175: [01:27:03 748] [update]   loading object: progressbar                                         
+176: [01:27:03 748] [update]   loading object: rectangle                                           
+177: [01:27:03 748] [update]   loading object: script                                              
+178: [01:27:03 749] [update]   loading object: scrollbox                                           
+179: [01:27:03 749] [update]   loading object: switch                                              
+180: [01:27:03 749] [update]   loading object: text                                                
+181: [01:27:03 749] [update]   loading object: triangle                                            
+182: [01:27:03 750] [info]                                                                         
+183: [01:27:03 750] [update]   loading text object...                                              
+184: [01:27:03 750] [info]                                                                         
+185: [01:27:03 750] [success]  finished creating gui object!                                       
+186: [01:27:03 750] [info]                                                                         
+187: [01:27:03 752] [info]     created new progressbar > 608c0210-e1ec-4755-b159-05ab9d305ac8      
+188: [01:27:03 755] [info]     created new text > b3482b75-7fe0-4555-8f5f-0952d81fb40d             
+189: [01:27:03 756] [info]     created new text > 336cf0ee-147e-4db7-a42b-518dd51b6969             
+190: [01:27:03 758] [info]     created new text > 5e986c5d-054f-4edc-bf42-dc7837360c91             
+191: [01:27:03 760] [update]   creating gui object..                                               
+192: [01:27:03 761] [update]   set up updater                                                      
+193: [01:27:03 761] [info]     Display object: monitor                                             
+194: [01:27:03 761] [info]                                                                         
+195: [01:27:03 761] [info]     Starting creator..                                                  
+196: [01:27:03 761] [info]     Found animation ease_in                                             
+197: [01:27:03 761] [info]     Found animation ease_in_back                                        
+198: [01:27:03 761] [info]     Found animation ease_in_cubic                                       
+199: [01:27:03 761] [info]     Found animation ease_in_elastic                                     
+200: [01:27:03 761] [info]     Found animation ease_in_expo                                        
+201: [01:27:03 761] [info]     Found animation ease_in_out                                         
+202: [01:27:03 761] [info]     Found animation ease_in_out_back                                    
+203: [01:27:03 761] [info]     Found animation ease_in_out_cubic                                   
+204: [01:27:03 762] [info]     Found animation ease_in_out_elastic                                 
+205: [01:27:03 762] [info]     Found animation ease_in_out_expo                                    
+206: [01:27:03 762] [info]     Found animation ease_in_out_quad                                    
+207: [01:27:03 762] [info]     Found animation ease_in_out_quart                                   
+208: [01:27:03 762] [info]     Found animation ease_in_out_quint                                   
+209: [01:27:03 762] [info]     Found animation ease_in_out_sine                                    
+210: [01:27:03 762] [info]     Found animation ease_in_quad                                        
+211: [01:27:03 762] [info]     Found animation ease_in_quart                                       
+212: [01:27:03 762] [info]     Found animation ease_in_quint                                       
+213: [01:27:03 762] [info]     Found animation ease_in_sine                                        
+214: [01:27:03 762] [info]     Found animation ease_out                                            
+215: [01:27:03 762] [info]     Found animation ease_out_back                                       
+216: [01:27:03 762] [info]     Found animation ease_out_cubic                                      
+217: [01:27:03 762] [info]     Found animation ease_out_elastic                                    
+218: [01:27:03 762] [info]     Found animation ease_out_expo                                       
+219: [01:27:03 762] [info]     Found animation ease_out_quad                                       
+220: [01:27:03 762] [info]     Found animation ease_out_quart                                      
+221: [01:27:03 762] [info]     Found animation ease_out_quint                                      
+222: [01:27:03 762] [info]     Found animation ease_out_sine                                       
+223: [01:27:03 762] [info]     Found animation flip                                                
+224: [01:27:03 762] [info]     Found animation linear                                              
+225: [01:27:03 762] [info]                                                                         
+226: [01:27:03 762] [update]   loading object: button                                              
+227: [01:27:03 763] [update]   loading object: circle                                              
+228: [01:27:03 763] [update]   loading object: ellipse                                             
+229: [01:27:03 764] [update]   loading object: frame                                               
+230: [01:27:03 764] [update]   loading object: group                                               
+231: [01:27:03 764] [update]   loading object: inputbox                                            
+232: [01:27:03 764] [update]   loading object: progressbar                                         
+233: [01:27:03 765] [update]   loading object: rectangle                                           
+234: [01:27:03 765] [update]   loading object: script                                              
+235: [01:27:03 766] [update]   loading object: scrollbox                                           
+236: [01:27:03 766] [update]   loading object: switch                                              
+237: [01:27:03 766] [update]   loading object: text                                                
+238: [01:27:03 767] [update]   loading object: triangle                                            
+239: [01:27:03 767] [info]                                                                         
+240: [01:27:03 767] [update]   loading text object...                                              
+241: [01:27:03 767] [info]                                                                         
+242: [01:27:03 767] [success]  finished creating gui object!                                       
+243: [01:27:03 767] [info]                                                                         
+244: [01:27:03 769] [info]     created new text > 82465ac5-c6d1-4da6-a43a-e8eb4be6b70d             
+245: [01:27:03 770] [info]     created new text > 66d66d3c-fcd2-415f-b3b0-bb34e57c8a0d             
+246: [01:27:03 773] [update]   creating gui object..                                               
+247: [01:27:03 773] [update]   set up updater                                                      
+248: [01:27:03 773] [info]     Display object: monitor                                             
+249: [01:27:03 773] [info]                                                                         
+250: [01:27:03 773] [info]     Starting creator..                                                  
+251: [01:27:03 774] [info]     Found animation ease_in                                             
+252: [01:27:03 774] [info]     Found animation ease_in_back                                        
+253: [01:27:03 774] [info]     Found animation ease_in_cubic                                       
+254: [01:27:03 774] [info]     Found animation ease_in_elastic                                     
+255: [01:27:03 774] [info]     Found animation ease_in_expo                                        
+256: [01:27:03 774] [info]     Found animation ease_in_out                                         
+257: [01:27:03 774] [info]     Found animation ease_in_out_back                                    
+258: [01:27:03 774] [info]     Found animation ease_in_out_cubic                                   
+259: [01:27:03 774] [info]     Found animation ease_in_out_elastic                                 
+260: [01:27:03 774] [info]     Found animation ease_in_out_expo                                    
+261: [01:27:03 774] [info]     Found animation ease_in_out_quad                                    
+262: [01:27:03 774] [info]     Found animation ease_in_out_quart                                   
+263: [01:27:03 774] [info]     Found animation ease_in_out_quint                                   
+264: [01:27:03 774] [info]     Found animation ease_in_out_sine                                    
+265: [01:27:03 774] [info]     Found animation ease_in_quad                                        
+266: [01:27:03 774] [info]     Found animation ease_in_quart                                       
+267: [01:27:03 774] [info]     Found animation ease_in_quint                                       
+268: [01:27:03 774] [info]     Found animation ease_in_sine                                        
+269: [01:27:03 775] [info]     Found animation ease_out                                            
+270: [01:27:03 775] [info]     Found animation ease_out_back                                       
+271: [01:27:03 775] [info]     Found animation ease_out_cubic                                      
+272: [01:27:03 775] [info]     Found animation ease_out_elastic                                    
+273: [01:27:03 775] [info]     Found animation ease_out_expo                                       
+274: [01:27:03 775] [info]     Found animation ease_out_quad                                       
+275: [01:27:03 775] [info]     Found animation ease_out_quart                                      
+276: [01:27:03 775] [info]     Found animation ease_out_quint                                      
+277: [01:27:03 775] [info]     Found animation ease_out_sine                                       
+278: [01:27:03 775] [info]     Found animation flip                                                
+279: [01:27:03 775] [info]     Found animation linear                                              
+280: [01:27:03 775] [info]                                                                         
+281: [01:27:03 775] [update]   loading object: button                                              
+282: [01:27:03 775] [update]   loading object: circle                                              
+283: [01:27:03 776] [update]   loading object: ellipse                                             
+284: [01:27:03 776] [update]   loading object: frame                                               
+285: [01:27:03 776] [update]   loading object: group                                               
+286: [01:27:03 777] [update]   loading object: inputbox                                            
+287: [01:27:03 777] [update]   loading object: progressbar                                         
+288: [01:27:03 777] [update]   loading object: rectangle                                           
+289: [01:27:03 777] [update]   loading object: script                                              
+290: [01:27:03 778] [update]   loading object: scrollbox                                           
+291: [01:27:03 778] [update]   loading object: switch                                              
+292: [01:27:03 778] [update]   loading object: text                                                
+293: [01:27:03 779] [update]   loading object: triangle                                            
+294: [01:27:03 779] [info]                                                                         
+295: [01:27:03 779] [update]   loading text object...                                              
+296: [01:27:03 779] [info]                                                                         
+297: [01:27:03 779] [success]  finished creating gui object!                                       
+298: [01:27:03 779] [info]                                                                         
+299: [01:27:03 781] [info]     created new text > e509a148-79f9-48b9-b70a-f966c71ac4aa             
+300: [01:27:03 782] [info]     created new text > 8a76be25-44e2-44fa-8249-ea860b61d953             
+301: [01:27:03 786] [update]   creating gui object..                                               
+302: [01:27:03 786] [update]   set up updater                                                      
+303: [01:27:03 786] [info]     Display object: monitor                                             
+304: [01:27:03 786] [info]                                                                         
+305: [01:27:03 786] [info]     Starting creator..                                                  
+306: [01:27:03 786] [info]     Found animation ease_in                                             
+307: [01:27:03 786] [info]     Found animation ease_in_back                                        
+308: [01:27:03 786] [info]     Found animation ease_in_cubic                                       
+309: [01:27:03 786] [info]     Found animation ease_in_elastic                                     
+310: [01:27:03 787] [info]     Found animation ease_in_expo                                        
+311: [01:27:03 787] [info]     Found animation ease_in_out                                         
+312: [01:27:03 787] [info]     Found animation ease_in_out_back                                    
+313: [01:27:03 787] [info]     Found animation ease_in_out_cubic                                   
+314: [01:27:03 787] [info]     Found animation ease_in_out_elastic                                 
+315: [01:27:03 787] [info]     Found animation ease_in_out_expo                                    
+316: [01:27:03 787] [info]     Found animation ease_in_out_quad                                    
+317: [01:27:03 787] [info]     Found animation ease_in_out_quart                                   
+318: [01:27:03 787] [info]     Found animation ease_in_out_quint                                   
+319: [01:27:03 787] [info]     Found animation ease_in_out_sine                                    
+320: [01:27:03 787] [info]     Found animation ease_in_quad                                        
+321: [01:27:03 787] [info]     Found animation ease_in_quart                                       
+322: [01:27:03 787] [info]     Found animation ease_in_quint                                       
+323: [01:27:03 787] [info]     Found animation ease_in_sine                                        
+324: [01:27:03 787] [info]     Found animation ease_out                                            
+325: [01:27:03 787] [info]     Found animation ease_out_back                                       
+326: [01:27:03 787] [info]     Found animation ease_out_cubic                                      
+327: [01:27:03 787] [info]     Found animation ease_out_elastic                                    
+328: [01:27:03 787] [info]     Found animation ease_out_expo                                       
+329: [01:27:03 787] [info]     Found animation ease_out_quad                                       
+330: [01:27:03 787] [info]     Found animation ease_out_quart                                      
+331: [01:27:03 787] [info]     Found animation ease_out_quint                                      
+332: [01:27:03 787] [info]     Found animation ease_out_sine                                       
+333: [01:27:03 787] [info]     Found animation flip                                                
+334: [01:27:03 787] [info]     Found animation linear                                              
+335: [01:27:03 787] [info]                                                                         
+336: [01:27:03 787] [update]   loading object: button                                              
+337: [01:27:03 788] [update]   loading object: circle                                              
+338: [01:27:03 788] [update]   loading object: ellipse                                             
+339: [01:27:03 788] [update]   loading object: frame                                               
+340: [01:27:03 788] [update]   loading object: group                                               
+341: [01:27:03 789] [update]   loading object: inputbox                                            
+342: [01:27:03 789] [update]   loading object: progressbar                                         
+343: [01:27:03 789] [update]   loading object: rectangle                                           
+344: [01:27:03 789] [update]   loading object: script                                              
+345: [01:27:03 790] [update]   loading object: scrollbox                                           
+346: [01:27:03 790] [update]   loading object: switch                                              
+347: [01:27:03 790] [update]   loading object: text                                                
+348: [01:27:03 791] [update]   loading object: triangle                                            
+349: [01:27:03 791] [info]                                                                         
+350: [01:27:03 791] [update]   loading text object...                                              
+351: [01:27:03 791] [info]                                                                         
+352: [01:27:03 791] [success]  finished creating gui object!                                       
+353: [01:27:03 791] [info]                                                                         
+354: [01:27:03 793] [info]     Found animation ease_in                                             
+355: [01:27:03 793] [info]     Found animation ease_in_back                                        
+356: [01:27:03 793] [info]     Found animation ease_in_cubic                                       
+357: [01:27:03 793] [info]     Found animation ease_in_elastic                                     
+358: [01:27:03 793] [info]     Found animation ease_in_expo                                        
+359: [01:27:03 793] [info]     Found animation ease_in_out                                         
+360: [01:27:03 793] [info]     Found animation ease_in_out_back                                    
+361: [01:27:03 793] [info]     Found animation ease_in_out_cubic                                   
+362: [01:27:03 793] [info]     Found animation ease_in_out_elastic                                 
+363: [01:27:03 793] [info]     Found animation ease_in_out_expo                                    
+364: [01:27:03 793] [info]     Found animation ease_in_out_quad                                    
+365: [01:27:03 793] [info]     Found animation ease_in_out_quart                                   
+366: [01:27:03 793] [info]     Found animation ease_in_out_quint                                   
+367: [01:27:03 793] [info]     Found animation ease_in_out_sine                                    
+368: [01:27:03 793] [info]     Found animation ease_in_quad                                        
+369: [01:27:03 793] [info]     Found animation ease_in_quart                                       
+370: [01:27:03 793] [info]     Found animation ease_in_quint                                       
+371: [01:27:03 793] [info]     Found animation ease_in_sine                                        
+372: [01:27:03 793] [info]     Found animation ease_out                                            
+373: [01:27:03 793] [info]     Found animation ease_out_back                                       
+374: [01:27:03 793] [info]     Found animation ease_out_cubic                                      
+375: [01:27:03 793] [info]     Found animation ease_out_elastic                                    
+376: [01:27:03 793] [info]     Found animation ease_out_expo                                       
+377: [01:27:03 793] [info]     Found animation ease_out_quad                                       
+378: [01:27:03 793] [info]     Found animation ease_out_quart                                      
+379: [01:27:03 793] [info]     Found animation ease_out_quint                                      
+380: [01:27:03 793] [info]     Found animation ease_out_sine                                       
+381: [01:27:03 793] [info]     Found animation flip                                                
+382: [01:27:03 793] [info]     Found animation linear                                              
+383: [01:27:03 793] [info]                                                                         
+384: [01:27:03 794] [update]   loading object: button                                              
+385: [01:27:03 794] [update]   loading object: circle                                              
+386: [01:27:03 794] [update]   loading object: ellipse                                             
+387: [01:27:03 794] [update]   loading object: frame                                               
+388: [01:27:03 795] [update]   loading object: group                                               
+389: [01:27:03 795] [update]   loading object: inputbox                                            
+390: [01:27:03 795] [update]   loading object: progressbar                                         
+391: [01:27:03 796] [update]   loading object: rectangle                                           
+392: [01:27:03 796] [update]   loading object: script                                              
+393: [01:27:03 796] [update]   loading object: scrollbox                                           
+394: [01:27:03 796] [update]   loading object: switch                                              
+395: [01:27:03 797] [update]   loading object: text                                                
+396: [01:27:03 797] [update]   loading object: triangle                                            
+397: [01:27:03 797] [info]     created new text > 707d24f2-2c85-450d-b697-cef7b287a9b8             
+398: [01:27:03 921] [info]     created new text > b72f047b-c5d5-472c-b6b9-a37fed9d5306             
+399: [01:27:03 971] [info]     created new text > 225d3574-ef44-4695-92ae-64db3a58bc38             
+400: [01:27:04 021] [info]     created new text > 34b8ede8-93ed-4723-bf3c-c1910192550a             
+401: [01:27:04 071] [info]     created new text > a05a664f-75e0-4e62-84a8-f0aa43300a04             
+402: [01:27:04 072] [info]                                                                         
+403: [01:27:04 072] [update]   loading execute..                                                   
+404: [01:27:04 073] [update]   created graphic routine 1                                           
+405: [01:27:04 073] [update]   created custom updater                                              
+406: [01:27:04 073] [update]   created event listener handle                                       
+407: [01:27:04 073] [update]   created graphic routine 2                                           
+408: [01:27:04 073] [update]   Created position updater                                            
+409: [01:27:04 073] [info]     created key handler                                                 
+410: [01:27:04 080] [info]                                                                         
+411: [01:27:04 080] [success]  Started execution..                                                 
+412: [01:27:04 080] [info]                                                                         
+413: [01:27:04 082] [info]                                                                         
+414: [01:27:04 082] [update]   loading execute..                                                   
+415: [01:27:04 082] [update]   created graphic routine 1                                           
+416: [01:27:04 082] [update]   created custom updater                                              
+417: [01:27:04 082] [update]   created event listener handle                                       
+418: [01:27:04 082] [update]   created graphic routine 2                                           
+419: [01:27:04 082] [update]   Created position updater                                            
+420: [01:27:04 082] [info]     created key handler                                                 
+421: [01:27:04 090] [info]                                                                         
+422: [01:27:04 090] [success]  Started execution..                                                 
+423: [01:27:04 090] [info]                                                                         
+424: [01:27:04 092] [info]                                                                         
+425: [01:27:04 092] [update]   loading execute..                                                   
+426: [01:27:04 092] [update]   created graphic routine 1                                           
+427: [01:27:04 092] [update]   created custom updater                                              
+428: [01:27:04 092] [update]   created event listener handle                                       
+429: [01:27:04 092] [update]   created graphic routine 2                                           
+430: [01:27:04 092] [update]   Created position updater                                            
+431: [01:27:04 092] [info]     created key handler                                                 
+432: [01:27:04 100] [info]                                                                         
+433: [01:27:04 100] [success]  Started execution..                                                 
+434: [01:27:04 100] [info]                                                                         
+435: [01:27:04 102] [info]                                                                         
+436: [01:27:04 102] [update]   loading execute..                                                   
+437: [01:27:04 102] [update]   created graphic routine 1                                           
+438: [01:27:04 102] [update]   created custom updater                                              
+439: [01:27:04 102] [update]   created event listener handle                                       
+440: [01:27:04 102] [update]   created graphic routine 2                                           
+441: [01:27:04 102] [update]   Created position updater                                            
+442: [01:27:04 102] [info]     created key handler                                                 
+443: [01:27:04 104] [info]                                                                         
+444: [01:27:04 104] [success]  Started execution..                                                 
+445: [01:27:04 104] [info]                                                                         
+446: [01:27:04 106] [info]                                                                         
+447: [01:27:04 106] [update]   loading execute..                                                   
+448: [01:27:04 106] [update]   created graphic routine 1                                           
+449: [01:27:04 106] [update]   created custom updater                                              
+450: [01:27:04 106] [update]   created event listener handle                                       
+451: [01:27:04 106] [update]   created graphic routine 2                                           
+452: [01:27:04 106] [update]   Created position updater                                            
+453: [01:27:04 106] [info]     created key handler                                                 
+454: [01:27:04 108] [info]                                                                         
+455: [01:27:04 108] [success]  Started execution..                                                 
+456: [01:27:04 108] [info]                                                                         
+457: [01:27:04 110] [info]                                                                         
+458: [01:27:04 110] [update]   loading execute..                                                   
+459: [01:27:04 110] [update]   created graphic routine 1                                           
+460: [01:27:04 110] [update]   created custom updater                                              
+461: [01:27:04 110] [update]   created event listener handle                                       
+462: [01:27:04 110] [update]   created graphic routine 2                                           
+463: [01:27:04 110] [update]   Created position updater                                            
+464: [01:27:04 110] [info]     created key handler                                                 
+465: [01:27:04 114] [info]                                                                         
+466: [01:27:04 114] [success]  Started execution..                                                 
+467: [01:27:04 114] [info]                                                                         

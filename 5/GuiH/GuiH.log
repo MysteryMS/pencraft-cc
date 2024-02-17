@@ -1,0 +1,87 @@
+0: [01:31:57 824] [update]     loading apis..                                                      
+1: [01:31:57 826] [info]       loaded api: fuzzy_find                                              
+2: [01:31:57 827] [info]       loaded api: log                                                     
+3: [01:31:57 828] [info]       loaded api: pixelbox                                                
+4: [01:31:57 829] [info]       loaded api: sevensh                                                 
+5: [01:31:57 829] [info]       loaded api: termtools                                               
+6: [01:31:57 830] [info]       loaded api: text                                                    
+7: [01:31:57 830] [info]                                                                           
+8: [01:31:57 830] [update]     loading presets..                                                   
+9: [01:31:57 836] [info]       loaded preset: rect > border                                        
+10: [01:31:57 836] [info]      loaded preset: rect > frame                                         
+11: [01:31:57 837] [info]      loaded preset: rect > frame_thick                                   
+12: [01:31:57 837] [info]      loaded preset: rect > framed_window                                 
+13: [01:31:57 837] [info]      loaded preset: rect > window                                        
+14: [01:31:57 838] [info]      loaded preset: tex > brick                                          
+15: [01:31:57 838] [info]      loaded preset: tex > checker                                        
+16: [01:31:57 838] [info]                                                                          
+17: [01:31:57 838] [success]   finished loading                                                    
+18: [01:31:57 838] [info]                                                                          
+19: [01:31:57 848] [update]    creating gui object..                                               
+20: [01:31:57 848] [update]    set up updater                                                      
+21: [01:31:57 848] [info]      Display object: monitor                                             
+22: [01:31:57 848] [info]                                                                          
+23: [01:31:57 848] [info]      Starting creator..                                                  
+24: [01:31:57 848] [info]      Found animation ease_in                                             
+25: [01:31:57 849] [info]      Found animation ease_in_back                                        
+26: [01:31:57 849] [info]      Found animation ease_in_cubic                                       
+27: [01:31:57 849] [info]      Found animation ease_in_elastic                                     
+28: [01:31:57 849] [info]      Found animation ease_in_expo                                        
+29: [01:31:57 849] [info]      Found animation ease_in_out                                         
+30: [01:31:57 849] [info]      Found animation ease_in_out_back                                    
+31: [01:31:57 849] [info]      Found animation ease_in_out_cubic                                   
+32: [01:31:57 849] [info]      Found animation ease_in_out_elastic                                 
+33: [01:31:57 849] [info]      Found animation ease_in_out_expo                                    
+34: [01:31:57 849] [info]      Found animation ease_in_out_quad                                    
+35: [01:31:57 849] [info]      Found animation ease_in_out_quart                                   
+36: [01:31:57 849] [info]      Found animation ease_in_out_quint                                   
+37: [01:31:57 849] [info]      Found animation ease_in_out_sine                                    
+38: [01:31:57 849] [info]      Found animation ease_in_quad                                        
+39: [01:31:57 849] [info]      Found animation ease_in_quart                                       
+40: [01:31:57 849] [info]      Found animation ease_in_quint                                       
+41: [01:31:57 849] [info]      Found animation ease_in_sine                                        
+42: [01:31:57 849] [info]      Found animation ease_out                                            
+43: [01:31:57 849] [info]      Found animation ease_out_back                                       
+44: [01:31:57 849] [info]      Found animation ease_out_cubic                                      
+45: [01:31:57 849] [info]      Found animation ease_out_elastic                                    
+46: [01:31:57 849] [info]      Found animation ease_out_expo                                       
+47: [01:31:57 849] [info]      Found animation ease_out_quad                                       
+48: [01:31:57 849] [info]      Found animation ease_out_quart                                      
+49: [01:31:57 849] [info]      Found animation ease_out_quint                                      
+50: [01:31:57 849] [info]      Found animation ease_out_sine                                       
+51: [01:31:57 849] [info]      Found animation flip                                                
+52: [01:31:57 849] [info]      Found animation linear                                              
+53: [01:31:57 849] [info]                                                                          
+54: [01:31:57 850] [update]    loading object: button                                              
+55: [01:31:57 865] [update]    loading object: circle                                              
+56: [01:31:57 867] [update]    loading object: ellipse                                             
+57: [01:31:57 869] [update]    loading object: frame                                               
+58: [01:31:57 871] [update]    loading object: group                                               
+59: [01:31:57 872] [update]    loading object: inputbox                                            
+60: [01:31:57 876] [update]    loading object: progressbar                                         
+61: [01:31:57 878] [update]    loading object: rectangle                                           
+62: [01:31:57 880] [update]    loading object: script                                              
+63: [01:31:57 881] [update]    loading object: scrollbox                                           
+64: [01:31:57 883] [update]    loading object: switch                                              
+65: [01:31:57 885] [update]    loading object: text                                                
+66: [01:31:57 887] [update]    loading object: triangle                                            
+67: [01:31:57 889] [info]                                                                          
+68: [01:31:57 889] [update]    loading text object...                                              
+69: [01:31:57 889] [info]                                                                          
+70: [01:31:57 889] [success]   finished creating gui object!                                       
+71: [01:31:57 889] [info]                                                                          
+72: [01:31:57 890] [info]      created new progressbar > f2ac7e0d-eeb2-461a-97bd-e22ef2ad51ae      
+73: [01:31:57 891] [info]      created new text > a065cd8a-dfa1-4fd8-9bb6-09c384f11d6b             
+74: [01:31:57 892] [info]      created new text > 915a50b8-9a9b-43ba-be56-fef70fecde52             
+75: [01:31:57 893] [info]      created new text > ddc61696-8de1-45cb-9658-5637c7538c01             
+76: [01:31:57 893] [info]                                                                          
+77: [01:31:57 894] [update]    loading execute..                                                   
+78: [01:31:57 894] [update]    created graphic routine 1                                           
+79: [01:31:57 894] [update]    created custom updater                                              
+80: [01:31:57 894] [update]    created event listener handle                                       
+81: [01:31:57 894] [update]    created graphic routine 2                                           
+82: [01:31:57 894] [update]    Created position updater                                            
+83: [01:31:57 894] [info]      created key handler                                                 
+84: [01:31:57 898] [info]                                                                          
+85: [01:31:57 898] [success]   Started execution..                                                 
+86: [01:31:57 898] [info]                                                                          
